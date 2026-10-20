@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Rezar o terço",
+    "checked": false
+  },
+  {
+    "value": "Fazer Exercicios Fisicos pelos menos 3 vezes na semana",
+    "checked": true
+  },
+  {
+    "value": "Exercicios",
+    "checked": false
+  },
+  {
+    "value": "Assistir filme",
+    "checked": false
+  },
+  {
+    "value": "Estudar",
+    "checked": false
+  }
+]
